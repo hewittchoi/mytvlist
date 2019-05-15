@@ -1,7 +1,23 @@
 ﻿#EXTM3U8
+#EXTINF:-1 ,和平精英
+ 
 #EXTINF:-1 ,虎牙不求人
 http://ws4.streamhls.huya.com/huyalive/24388088-2704290112-11614837589936177152-4455874454-10057-A-0-1.m3u8
 
+#EXTINF:-1 ,虎牙冬季
+http://ws4.streamhls.huya.com/huyalive/24388088-2691850722-11561410816703987712-4429879088-10057-A-0-1.m3u8
+
+#EXTINF:-1 ,王者荣耀
+ 
+#EXTINF:-1 ,闲云-杆哥（虎牙）
+http://ws4.streamhls.huya.com/huyalive/95867856-2643202738-11352469316407656448-3684982898-10057-A-0-1.m3u8
+
+#EXTINF:-1 ,闲云-杆哥（aldirect模式）
+https://aldirect.hls.huya.com/huyalive/95867856-2643202738-11352469316407656448-3684982898-10057-A-0-1_2000.m3u8
+
+
+#EXTINF:-1 ,星秀
+ 
 #EXTINF:-1 ,虎牙萧璇
 http://ws4.streamhls.huya.com/huyalive/1420094035-1420094035-6099257437569679360-123582968-10057-A-0-1.m3u8
 
