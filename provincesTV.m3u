@@ -137,30 +137,77 @@ http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 group-title="国内卫视",旅游卫视
 http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
 
-#EXTINF:-1 group-title="国内卫视",
-
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清1台
 http://edge2.everyon.tv/etv2sb/phd59/HasBahCa.m3u8
-韩国成人高清2台,http://edge2.everyon.tv/etv2sb/phd60/HasBahCa.m3u8
-韩国成人高清3台,http://edge2.everyon.tv/etv2sb/phd61/HasBahCa.m3u8
-韩国成人高清4台,http://edge2.everyon.tv/etv2sb/phd62/HasBahCa.m3u8
-韩国成人高清5台,http://edge2.everyon.tv/etv2sb/phd63/HasBahCa.m3u8
-韩国成人高清6台,http://edge2.everyon.tv/etv2sb/phd64/HasBahCa.m3u8
-韩国成人高清7台,http://edge1.everyon.tv/etv1sb/phd497/HasBahCa.m3u8
-韩国成人高清8台,http://edge2.everyon.tv/etv2sb/phd499/HasBahCa.m3u8
-韩国成人高清9台,http://edge2.everyon.tv/etv2sb/phd501/HasBahCa.m3u8
-韩国成人高清10台,http://edge2.everyon.tv/etv2sb/phd511/HasBahCa.m3u8
-韩国成人高清11台,http://edge1.everyon.tv/etv1sb/phd765/HasBahCa.m3u8
-韩国成人高清12台,http://edge1.everyon.tv/etv1sb/phd766/HasBahCa.m3u8
-韩国成人高清13台,http://edge2.everyon.tv/etv2sb/phd769/HasBahCa.m3u8
-韩国成人高清14台,http://edge2.everyon.tv/etv2sb/phd771/HasBahCa.m3u8
-韩国成人高清15台,http://edge2.everyon.tv/etv2sb/phd772/HasBahCa.m3u8
-韩国成人高清16台,http://edge1.everyon.tv/etv1sb/phd927/HasBahCa.m3u8
-韩国成人高清17台,http://edge1.everyon.tv/etv1sb/phd928/HasBahCa.m3u8
-韩国成人高清18台,http://edge2.everyon.tv/etv2sb/phd968/HasBahCa.m3u8
-韩国成人高清19台,http://edge2.everyon.tv/etv2sb/phd991/HasBahCa.m3u8
-韩国成人高清20台,http://edge2.everyon.tv/etv2sb/phd992/HasBahCa.m3u8
-韩国成人高清21台,http://edge2.everyon.tv/etv2sb/phd993/HasBahCa.m3u8
-韩国成人高清22台,http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
-韩国成人高清23台,http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
-韩国成人高清24台,http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-韩国成人高清25台,http://edge2.everyon.tv/etv2/phd1008/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清2台
+http://edge2.everyon.tv/etv2sb/phd60/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清3台
+http://edge2.everyon.tv/etv2sb/phd61/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清1台
+http://edge2.everyon.tv/etv2sb/phd62/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清5台
+http://edge2.everyon.tv/etv2sb/phd63/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清6台
+http://edge2.everyon.tv/etv2sb/phd64/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清7台
+http://edge1.everyon.tv/etv1sb/phd497/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清8台
+http://edge2.everyon.tv/etv2sb/phd499/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清9台
+http://edge2.everyon.tv/etv2sb/phd501/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清10台
+http://edge2.everyon.tv/etv2sb/phd511/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清11台
+http://edge1.everyon.tv/etv1sb/phd765/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清12台
+http://edge1.everyon.tv/etv1sb/phd766/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清13台
+http://edge2.everyon.tv/etv2sb/phd769/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清14台
+http://edge2.everyon.tv/etv2sb/phd771/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清15台
+http://edge2.everyon.tv/etv2sb/phd772/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清16台
+http://edge1.everyon.tv/etv1sb/phd927/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清17台
+http://edge1.everyon.tv/etv1sb/phd928/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清18台
+http://edge2.everyon.tv/etv2sb/phd968/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清19台
+http://edge2.everyon.tv/etv2sb/phd991/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清20台
+http://edge2.everyon.tv/etv2sb/phd992/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清21台
+http://edge2.everyon.tv/etv2sb/phd993/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清22台
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清23台
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清24台
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="韩国成人高清",韩国成人高清25台
+http://edge2.everyon.tv/etv2/phd1008/HasBahCa.m3u8
