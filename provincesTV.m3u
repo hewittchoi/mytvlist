@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-logo="http://img3.redocn.com/20100915/20100915_be93a0e4e989554756164qRY01VcI5YW.jpg" group-title="央视频道", CCTV综合
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://img3.redocn.com/20100915/20100915_be93a0e4e989554756164qRY01VcI5YW.jpg" group-title="地方台", 揭阳综合
+http://dslive.grtn.cn/jyzh/sd/live.m3u8
+
 #EXTINF:-1 ,湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 
