@@ -119,7 +119,7 @@ http://ivi.bupt.edu.cn/hls/hunantv.m3u8
 #EXTINF:-1 group-title="国内卫视",云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
 
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1 group-title="国内卫视",江西卫视
 http://ivi.bupt.edu.cn/hls/jxtv.m3u8
 
 #EXTINF:-1 group-title="国内卫视",福建东南卫视
