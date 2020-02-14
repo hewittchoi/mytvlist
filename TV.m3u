@@ -7,8 +7,77 @@
 # 国内卫视
 
 # 央视频道
-#EXTINF:-1 tvg-logo="http://img3.redocn.com/20100915/20100915_be93a0e4e989554756164qRY01VcI5YW.jpg" group-title="央视频道", CCTV综合（高清）
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png"  group-title="央视频道",CCTV1（高清）
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" group-title="央视频道",CCTV1 4K(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" group-title="央视频道",CCTV1 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" group-title="央视频道",CCTV1 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" group-title="央视频道",CCTV1 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226589/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" group-title="央视频道",CCTV1 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226527/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226554/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226219/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226560/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226563/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226417/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226556/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV2 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226562/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226171/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226687/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5+ FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5+ HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226166/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226470/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9 HD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226561/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV高尔夫网球 SD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
+
 
 # 广东省
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/tv/jysxw/" group-title="广东省", 揭阳综合
