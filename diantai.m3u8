@@ -1,0 +1,8 @@
+﻿#EXTM3U8
+#EXTINF:-1 ,家乡电台
+ 
+#EXTINF:-1 group-title="家乡电台",普宁广播电台（源1）
+http://live.xmcdn.com/live/2124/64.m3u8
+
+#EXTINF:-1 group-title="家乡电台",普宁广播电台（源2）
+http://ls.qingting.fm/live/3976130.m3u8
