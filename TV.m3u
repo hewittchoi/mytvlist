@@ -5,6 +5,7 @@
 # 广东省
 # 虎牙直播
 # 国内卫视
+# NewTV
 
 # 央视频道
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png"  group-title="央视频道",CCTV1（高清）
@@ -190,3 +191,38 @@ http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 group-title="国内卫视",旅游卫视
 http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
 
+# NewTV
+#EXTINF:-1 group-title="NewTV",【NewTV】搏击 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】潮妈辣婆 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】动作电影 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】古装剧场 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】海外剧场 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】家庭剧场 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】健康有约 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】金牌综艺 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】惊悚悬疑 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】精品大剧 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】精品记录 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】军旅剧场 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】军事评论 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】明星大片 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】农业致富 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】炫舞未来 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226817/index.m3u8
+#EXTINF:-1 group-title="NewTV",【NewTV】中国功夫 FHD(杭州移动)
+http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
