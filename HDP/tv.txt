@@ -1,0 +1,9 @@
+翡翠台(标清),http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_ctype=LIVES&amp;version=9&amp;Fsv_rate_id=1&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&amp;Provider_id=00000000&amp;Fsv_filetype=1&amp;Fsv_ShiftEnable=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftTsp=240&amp;Fsv_CMSID=00000000&amp;AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+凤凰资讯HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰资讯(标清),http://125.210.152.18:9090/live/FHZX_1200.m3u8
+凤凰中文HD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文HD,http://223.82.250.72/ysten-bussiness/live/fhchinese/1.m3u8
+凤凰中文(标清),http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=190&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv_CMSID=&amp;Fsv_otype=1
+凤凰中文(标清),http://125.210.152.18:9090/live/FHZW_1200.m3u8
+潮州戏曲广播 FM103.1,http://ls.qingting.fm/live/4595.m3u8
