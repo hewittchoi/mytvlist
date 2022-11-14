@@ -1,0 +1,1119 @@
+#EXTM3U
+#EXTINF:-1 group-title="港澳台频道",CTN
+http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台频道",澳门有线 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",澳门有线 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 group-title="港澳台频道",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 group-title="港澳台频道",创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+#EXTINF:-1 group-title="港澳台频道",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",点掌财经
+http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="港澳台频道",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="港澳台频道",好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="港澳台频道",好消息电视台
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8
+#EXTINF:-1 group-title="港澳台频道",好消息电视台
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",莲花卫视
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="港澳台频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台频道",唯心电视台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港電台普通話台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港卫视
+http://anren.live/HK/BSJDUFpB.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="港澳台频道",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="港澳台频道",耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",原住民電視
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="港澳台频道",智林体育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台频道",中国环球电视
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="港澳台频道",中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台频道",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",J2台
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 group-title="港澳台频道",无线财经资讯台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",RTHKTV32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="港澳台频道",原住民频道
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道",HBO2台
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港国际财经台
+https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台频道",ViuTV6
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳台频道",澳门莲花
+http://epg.112114.xyz/lotus
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道",点掌+财经
+http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台频道",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 group-title="港澳台频道",华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台频道",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台频道",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV黑莓电竞
+http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品综合
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军事评论
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品大剧
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV炫舞未来
+http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品大剧
+http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品纪录
+http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://111.40.196.9/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级体育
+http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV炫舞未来
+http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="NTV频道",黑莓电竞[1920•1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV动作电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV家庭剧场
+http://111.40.196.9/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军旅剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV武搏世界
+http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军事评论
+http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV动作电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV中国功夫
+http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品大剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV动作电影
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV潮妈辣婆
+http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军旅剧场
+http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV动作电影
+http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV东北热剧[1920•1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV明星大片
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV动作电影
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV农业致富
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV家庭剧场
+http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV中国功夫
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV家庭剧场
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品综合
+http://111.40.196.9/PLTV/88888888/224/3221225616/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV家庭剧场[1920•1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV潮妈辣婆
+http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV欢乐剧场
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级体育
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军事评论
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV潮妈辣婆
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军事评论
+http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV动作电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV明星大片
+http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV欢乐剧场
+http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV欢乐剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV热播精选
+http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电影
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV欢乐剧场[1920•1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV古装剧场
+http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军旅剧场
+http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV炫舞未来
+http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV农业致富
+http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品体育
+http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV明星大片
+http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV爱情喜剧
+http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品纪录
+http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品大剧
+http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV爱情喜剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军事评论
+http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品纪录
+http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV古装剧场
+http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV农业致富
+http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV农业致富
+http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV爱情喜剧
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV古装剧场
+http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV家庭剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV武搏世界
+http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品体育[1920•1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV军事评论
+http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品大剧
+http://111.40.196.9/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV精品纪录
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV黑莓电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV惊悚悬疑
+http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV金牌综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV金牌综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="NTV频道",NewTV超级电视剧[1920•1080]
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Anal (720p)
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Asian (720p)
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Big Ass (720p)
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Big Dick (720p)
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Big Tits (720p)
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Blonde (720p)
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Blowjob (720p)
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Brunette (720p)
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Compilation (720p)
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Cuckold (720p)
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Fetish (720p)
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Gangbang (720p)
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Gay (720p)
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Hardcore (720p)
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Interracial (720p)
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Latina (720p)
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Lesbian (720p)
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Live Cams (720p)
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net MILF (720p)
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Pornstar (720p)
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net POV (720p)
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Rough (720p)
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Russian (720p)
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Teen (720p)
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Threesome (720p)
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="XXX",AdultIPTV.net Woman (720p)
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="XXX",Babestation24 (720p)
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="XXX",Honey TV (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
+#EXTINF:-1 group-title="XXX",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Miami TV Latino (1080p)
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Miami TV México (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 group-title="XXX",Midnight (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Asian
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Big Ass
+http://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Big Tits
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Blonde
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Brunette
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Ebony
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Latina
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Skinny
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="XXX",MyCamTV White
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="XXX",Pink'O TV (720p)
+http://w4.12all.tv:4000/play/pinkotv/index.m3u8
+#EXTINF:-1 group-title="XXX",Playboy TV Korea (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
+#EXTINF:-1 group-title="XXX",Redlight HD (720p)
+http://w4.12all.tv:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="XXX",Viki (1080p)
+https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-yanbianstv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.11.123.49:6610/000000001000/1000000002000023773/1.m3u8?Contentid=1000000002000023773&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png",贵州卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png",宁夏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://122.228.87.30:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",四川卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/yunnanstv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://117.169.120.140:8080/live/hdhubeistv/.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",安徽卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png",东南卫视
+http://182.151.211.171:808/hls/61/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/lvyoustv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-kambatv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/jilinstv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",青海卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.135.138.59:18890/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png",东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png",贵州卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png",甘肃卫视
+http://39.134.32.102:6610/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://182.151.211.171:808/hls/63/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.193.100:6610/030000001001/jilinstv/1.m3u8?i
+#EXTINF:-1 group-title="省份卫视",冬奥纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.134.193.100:6610/030000001001/neimenggustv/1.m3u8?i
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png",新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221225585/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.134.193.100:6610/030000001001/yunnanstv/1.m3u8?
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视",西西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226211/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png",河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视",深圳卫视FHD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225562/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png",河北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225530/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://117.148.129.9/PLTV/88888888/224/3221231469/index.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://39.134.65.134/PLTV/88888888/224/3221226040/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.134.65.151/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="省份卫视",南方卫视
+https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.134.65.151/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png",甘肃卫视
+http://39.134.35.199/PLTV/88888888/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png",深圳卫视
+http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.136.48.20:8089/PLTV/88888888/224/3221226033/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.134.65.208/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.134.65.149/PLTV/88888888/224/3221225951/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://39.134.65.134/PLTV/88888888/224/3221225527/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png",河南卫视
+http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gdws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.134.65.130/PLTV/88888888/224/3221225577/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.65.145/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://111.63.117.13:6060/030000001000/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.134.65.134/PLTV/88888888/224/3221225577/1.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://39.134.65.149/PLTV/88888888/224/3221226026/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.134.65.151/PLTV/88888888/224/3221226024/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.134.65.143/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.134.65.149/PLTV/88888888/224/3221226017/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png",深圳卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png",河南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.65.141/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://111.11.123.49:6610/000000001000/7331079758781182663/1.m3u8?Contentid=7331079758781182663&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://111.11.123.49:6610/000000001000/7179022603798868495/1.m3u8?Contentid=7179022603798868495&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://ncyd.jilu8.cn/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://111.11.123.49:6610/000000001000/5381760837640571168/1.m3u8?Contentid=5381760837640571168&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://111.11.123.49:6610/000000001000/6810887655606226378/1.m3u8?Contentid=6810887655606226378&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://111.11.123.49:6610/000000001000/5417511929530418061/1.m3u8?Contentid=5417511929530418061&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://111.11.123.49:6610/000000001000/1000000002000027730/1.m3u8?Contentid=1000000002000027730&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://111.11.123.49:6610/000000001000/5509594920701152353/1.m3u8?Contentid=5509594920701152353&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://111.11.123.49:6610/000000001000/8069815772565148726/1.m3u8?Contentid=8069815772565148726&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://111.11.123.49:6610/000000001000/8567124785369040339/1.m3u8?Contentid=8567124785369040339&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://111.11.123.49:6610/000000001000/5000000006000040019/1.m3u8?Contentid=5000000006000040019&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://111.11.123.49:6610/000000001000/9131971102485823367/1.m3u8?Contentid=9131971102485823367&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://111.11.123.49:6610/000000001000/6779252864642956855/1.m3u8?Contentid=6779252864642956855&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://111.11.123.49:6610/000000001000/5411468428139664300/1.m3u8?Contentid=5411468428139664300&livemode=1&stbId=3&channel-id=hnbblive
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://111.11.123.49:6610/000000001000/5000000006000040020/1.m3u8?Contentid=5000000006000040020&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视",晋江卫视
+http://stream.jinjiang.tv/1/sd/live.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://122.228.87.14:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://61.164.158.23:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png",新疆卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png",东南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="省份卫视",旅游卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506dfaea3eb.png",山西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png",深圳卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png",甘肃卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png",河北卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png",山东卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.134.116.30:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png",河北卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.135.138.60:18890/TVOD/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-bingtuanstv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png",深圳卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/xizangstv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="省份卫视",上海纪实
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.134.193.100:6610/030000001001/xizangstv/1.m3u8?i
+#EXTINF:-1 group-title="省份卫视",北京纪实
+http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png",东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",四川卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225722/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png",四川卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png",宁夏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://182.151.211.171:808/hls/60/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.135.138.58:18890/ysten-businessmobile/live/neimenggustv/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.134.116.30:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226213/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png",河南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",龙江卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://117.169.120.140:8080/live/xizangstv/.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hljws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png",东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.134.193.100:6610/030000001001/guangxistv/1.m3u8?i
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://beijingzhibo.com/templets/beijing/images/btv_1.jpg",北京卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225538/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png",东南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png",甘肃卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png",贵州卫视
+http://39.134.65.151/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png",贵州卫视
+http://39.134.65.145/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://111.11.123.49:6610/000000001000/4676357582335641620/1.m3u8?Contentid=4676357582335641620&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://39.134.65.130/PLTV/88888888/224/3221225527/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://111.11.123.49:6610/000000001000/4754049812030405539/1.m3u8?Contentid=4754049812030405539&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="省份卫视",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg",湖南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://live-cdn.gxxw.com/hls/a23/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.134.65.130/PLTV/88888888/224/3221225570/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.65.151/PLTV/88888888/224/3221226013/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png",甘肃卫视
+http://39.136.48.26:8089/PLTV/88888888/224/3221226387/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://39.134.65.151/PLTV/88888888/224/3221226005/1.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://39.134.65.149/PLTV/88888888/224/3221226005/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.136.48.53:8089/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://39.134.65.149/PLTV/88888888/224/3221226024/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png",贵州卫视
+http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://39.134.65.141/PLTV/88888888/224/3221226005/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png",贵州卫视
+http://39.134.65.141/PLTV/88888888/224/3221225974/1.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://39.134.65.132/PLTV/88888888/224/3221225530/1.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png",湖北卫视
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w1179863659.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://39.134.65.147/PLTV/88888888/224/3221225957/1.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://39.134.65.130/PLTV/88888888/224/3221225530/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png",云南卫视
+http://111.11.123.49:6610/000000001000/6546334374314681368/1.m3u8?Contentid=6546334374314681368&livemode=1&stbId=3&channel-id=hnbblive
+#EXTINF:-1 group-title="省份卫视",金牌综艺
+http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.65.151/PLTV/88888888/224/3221225981/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://39.134.65.149/PLTV/88888888/224/3221226013/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png",天津卫视
+http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg",东方卫视
+http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 group-title="省份卫视",延边卫视
+http://39.134.65.132/PLTV/88888888/224/3221226040/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://39.134.65.134/PLTV/88888888/224/3221225570/1.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png",江苏卫视
+http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",安徽卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",安徽卫视
+http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg",辽宁卫视
+http://39.135.138.59:18890/TVOD/88888910/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://111.11.123.49:6610/000000001000/5000000006000040013/1.m3u8?Contentid=5000000006000040013&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png",广西卫视
+http://111.11.123.49:6610/000000001000/5000000006000040014/1.m3u8?Contentid=5000000006000040014&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.11.123.49:6610/000000001000/6187345409661409786/1.m3u8?Contentid=6187345409661409786&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://111.11.123.49:6610/000000001000/5559214655508729688/1.m3u8?Contentid=5559214655508729688&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.11.123.49:6610/000000001000/1000000005000025334/1.m3u8?Contentid=1000000005000025334&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.11.123.49:6610/000000001000/7899627377857656087/1.m3u8?Contentid=7899627377857656087&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://111.11.123.49:6610/000000001000/1000000005000266005/1.m3u8?Contentid=1000000005000266005&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://111.11.123.49:6610/000000001000/1000000002000015894/1.m3u8?Contentid=1000000002000015894&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png",西藏卫视
+http://111.11.123.49:6610/000000001000/6603041244077933770/1.m3u8?Contentid=6603041244077933770&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225548/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="省份卫视",兵团卫视
+http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w588330955.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png",吉林卫视
+http://111.11.123.49:6610/000000001000/7365582553698000803/1.m3u8?Contentid=7365582553698000803&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.11.123.49:6610/000000001000/4676690988340017823/1.m3u8?Contentid=4676690988340017823&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://111.11.123.49:6610/000000001000/8960557517876415203/1.m3u8?Contentid=8960557517876415203&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",康巴卫视
+http://111.11.123.49:6610/000000001000/5000000003000001598/1.m3u8?Contentid=5000000003000001598&livemode=1&stbId=3&channel-id=bestzb
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png",内蒙古卫视
+http://111.11.123.49:6610/000000001000/1000000002000014080/1.m3u8?Contentid=1000000002000014080&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="省份卫视",海南卫视
+http://111.11.123.49:6610/000000001000/6416920617511796880/1.m3u8?Contentid=6416920617511796880&livemode=1&stbId=3&channel-id=hnbblive
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png",青海卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png",重庆卫视
+http://39.135.138.60:18890/TVOD/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png",广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png",黑龙江卫视
+http://39.134.66.110/PLTV/88888888/224/3221225985/index.m3u8
+#EXTINF:-1 group-title="省份卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png",陕西卫视
+http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",TVB 星河台
+http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+#EXTINF:-1 group-title="港澳台频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台频道",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",无线新闻台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰香港
+https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰电影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="港澳台频道",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台频道",凤凰中文
+http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="http://p2.ifengimg.com/a/2017/1027/vLogo.jpg",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 group-title="亚洲情色",声も出せずクンニに闷える人妻介护 豊中アリス
+http://video.gujianzhixiang.com:8091/81820190301/818201903010535/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://img3.redocn.com/20100915/20100915_be93a0e4e989554756164qRY01VcI5YW.jpg",CCTV1-综合
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
+http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4国际
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
+http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
+http://39.135.138.59:18890/TVOD/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
+http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
+http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
+http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
+http://111.63.117.13:6060/030000001000/CCTV-12/CCTV-12.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
+http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
+http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
