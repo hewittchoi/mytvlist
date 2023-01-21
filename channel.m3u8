@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 ,TVB翡翠台
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade.png",TVB翡翠台
 http://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 ,CCTV-15音乐
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-15-cn.png",CCTV-15音乐
 http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gd-hbimg.huaban.com/5a82ba8fb761a678d21ade00763e240c338e66836f734-8nk0oS_fw658",中文台（高清）-凤凰卫视
 http://117.169.124.149:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 ,资讯台-凤凰卫视
+#EXTINF:-1 group-title="港澳台频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_infonews.png",资讯台-凤凰卫视
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
