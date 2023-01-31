@@ -1,0 +1,13 @@
+港澳台
+TVB翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
+凤凰卫视中文台,http://117.169.124.149:8080/live/fhchinese/index.m3u8
+凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
+央视
+CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
+
+虎牙
+虎牙金米米,http://ws4.streamhls.huya.com/hqlive/1419251590-1419251590-6095639163846000640-2838626636-10057-A-0-1.m3u8
+虎牙盛世-小甜芯,https://al.flv.huya.com/src/1199522797509-1199522797509-5269589542620364800-2399045718474-10057-A-0-1.flv?wsSecret=2bb1c777cceb367b20cacf0af38aace3&wsTime=63ce09b3&seqid=151834648908716743608823687782&ctype=tars_mp&ver=1&txyp=a&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_&t=103&ratio=4000&u=1518346489087&t=103&sv=2110211124
+
+

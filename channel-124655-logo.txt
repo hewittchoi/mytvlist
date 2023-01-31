@@ -1,0 +1,7 @@
+TVB翡翠台,http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png
+CCTV-15音乐,http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png
+凤凰卫视中文台,http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png
+凤凰卫视资讯台,http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png
+虎牙金米米,https://huyaimg.msstatic.com/avatar/1089/ed/7615d8d77fcde87b709ad8da3eaba5_180_135.jpg?1591718944
+虎牙盛世-小甜芯,https://huyaimg.msstatic.com/avatar/1089/ed/7615d8d77fcde87b709ad8da3eaba5_180_135.jpg?1591718944
+
