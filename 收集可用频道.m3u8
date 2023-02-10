@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MvxdZhX.png",SBS CJB (CJB청주방송) (540p)
+#EXTINF:-1 group-title="韩国" tvg-logo="https://i.imgur.com/MvxdZhX.png",SBS CJB (CJB청주방송) (540p)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/q9Nx801.png",SBS TJB (1080p) [Not 24/7
 http://1.245.74.5:1935/live/tv/.m3u8
