@@ -1053,7 +1053,7 @@ http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 group-title="未分类",东至新闻综合
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png",TVB Jade (翡翠台720P) (Cantonese
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png",TVB Jade (翡翠台720P)
 http://23.237.10.66:16106
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/AbUMkqo.png",CTi Variety (中天综合台) (720p
 http://23.237.10.66:16372
