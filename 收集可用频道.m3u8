@@ -1053,7 +1053,7 @@ http://223.247.33.124:1935/live/yingshi/playlist.m3u8
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 group-title="未分类",东至新闻综合
 http://223.247.33.124:1935/live/zonghe/playlist.m3u8?zanhd
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png",TVB Jade (翡翠台) (Cantonese
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png",TVB Jade (翡翠台720P) (Cantonese
 http://23.237.10.66:16106
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/AbUMkqo.png",CTi Variety (中天综合台) (720p
 http://23.237.10.66:16372
@@ -9956,7 +9956,7 @@ https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png",Futura (540p) [Not 24/7]
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台1080P
 http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
