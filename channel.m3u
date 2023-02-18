@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 http://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
+http://27.36.62.162:9090/live/1350_4500/1350_4500_419185256.ts?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=1&pid=&cid=1332&d=b60131110d72d53&sid=aR2iEoX15+cF3+reaeyMIg==&r=20230219012352&e=20230219072357&nc=zGrOwFE2mf9w&a=7&v=2&isSuma=1&hlsSessionID=17024452686035571986&srchost=172.16.149.181:8060&gid=CBgJ42kR%2BeLShn%2BTT6fNkg%3D%3D
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
