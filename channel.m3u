@@ -7,8 +7,5 @@ http://27.36.62.162:9090/live/1350_4500.m3u8
 http://117.169.124.149:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="huya1" tvg-name="虎牙金米米" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/ed/7615d8d77fcde87b709ad8da3eaba5_180_135.jpg?1591718944" group-title="虎牙",虎牙金米米
-http://ws4.streamhls.huya.com/hqlive/1419251590-1419251590-6095639163846000640-2838626636-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="huya2" tvg-name="虎牙盛世-小甜芯" tvg-logo="https://huyaimg.msstatic.com/avatar/1089/ed/7615d8d77fcde87b709ad8da3eaba5_180_135.jpg?1591718944" group-title="虎牙",虎牙盛世-小甜芯
-https://al.flv.huya.com/src/1199522797509-1199522797509-5269589542620364800-2399045718474-10057-A-0-1.flv?wsSecret=2bb1c777cceb367b20cacf0af38aace3&wsTime=63ce09b3&seqid=151834648908716743608823687782&ctype=tars_mp&ver=1&txyp=a&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_&t=103&ratio=4000&u=1518346489087&t=103&sv=2110211124
-
+#EXTINF:-1 Newtv
+http://39.135.138.58:18890/PLTV/88888888/224/3221225712/1676742469-1-1676591237.hls.ts?ssr_hostlv1=39.134.116.1:18890&ssr_host=117.169.124.150:8080
