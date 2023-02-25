@@ -1,5 +1,0 @@
-TVB翡翠台,http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png
-凤凰卫视中文台,http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png
-凤凰卫视资讯台720P,http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png
-凤凰卫视资讯台1080P,http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png
-

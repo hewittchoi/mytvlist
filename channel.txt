@@ -3,8 +3,7 @@ TVB翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
 凤凰中文1080P,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰卫视中文台720P,http://117.169.124.149:8080/live/fhchinese/index.m3u8
 凤凰卫视资讯台720P,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视资讯台1080P,http://play-live.ifeng.com:80/live/06OLEEWQKN4-1676822435.ts?txspiseq=103296224859042864016
-抖音小姐姐,http://akm-tct.douyucdn.cn:80/live/8901218rj8AYt8ls.flv?uuid=
+抖音小姐姐,http://epg.112114.xyz/douyu/8901218
 SSNI-939三上悠亚,https://ap-drop-monst.mushroomtrack.com/bcdn_token=YKdEs0ITQq1BgcgacUC4BkWcLJ0NlQ0xtXoM7W65eHU&expires=1677004932&token_path=%2Fvod%2F/vod/12000/12302/12302.m3u8
 💞月光宝盒,#genre#
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
